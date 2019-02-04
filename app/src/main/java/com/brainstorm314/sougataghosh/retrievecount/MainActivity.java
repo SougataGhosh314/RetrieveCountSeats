@@ -78,9 +78,9 @@ public class MainActivity extends AppCompatActivity {
             line.append(temp.movieName+"\n"+"  Available: "+temp.availableCount+
                     "\n  Reserved: "+temp.reservedCount);
             if (temp.availableCount.equals("0")) {
-                line.append("  ## House full ##\n\n");
+                line.append("\n  ## House full ##\n\n");
             } else {
-                line.append("  ## Not yet House full ##\n\n");
+                line.append("\n  ## Not yet House full ##\n\n");
             }
         }
 
