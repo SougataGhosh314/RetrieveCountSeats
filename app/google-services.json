@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "761703986220",
+    "firebase_url": "https://fp1firebaseproject.firebaseio.com",
+    "project_id": "fp1firebaseproject",
+    "storage_bucket": "fp1firebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761703986220:android:576110e3117d39a4",
+        "android_client_info": {
+          "package_name": "com.brainstorm314.sougataghosh.retrievecount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761703986220-4vn98q7c8kjslh5ae21bgi38dt6sm64b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainstorm314.sougataghosh.retrievecount",
+            "certificate_hash": "30f6ca9e0a37bd728caf43c7a817f6bad858f41a"
+          }
+        },
+        {
+          "client_id": "761703986220-f6l2fldl6b9qikqqiqarbqvdp06ne681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8O2ezZMvXwbOgPNRpYTqn16agY-rQ8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761703986220-f6l2fldl6b9qikqqiqarbqvdp06ne681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761703986220:android:f260ca2c10df49c7",
+        "android_client_info": {
+          "package_name": "com.example.sougataghosh.fp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761703986220-u9h8a53k8g1qhniu8ju21666uekg0qll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sougataghosh.fp2",
+            "certificate_hash": "30f6ca9e0a37bd728caf43c7a817f6bad858f41a"
+          }
+        },
+        {
+          "client_id": "761703986220-f6l2fldl6b9qikqqiqarbqvdp06ne681.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK8O2ezZMvXwbOgPNRpYTqn16agY-rQ8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761703986220-f6l2fldl6b9qikqqiqarbqvdp06ne681.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
