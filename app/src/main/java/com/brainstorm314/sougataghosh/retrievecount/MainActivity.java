@@ -75,8 +75,8 @@ public class MainActivity extends AppCompatActivity {
 
         for (int i = 0; i<statusList.size(); i++) {
             HallStatus temp = statusList.get(i);
-            line.append(temp.movieName+"  Available: "+temp.availableCount+
-                    "  Reserved: "+temp.reservedCount);
+            line.append(temp.movieName+"\n"+"  Available: "+temp.availableCount+
+                    "\n  Reserved: "+temp.reservedCount);
             if (temp.availableCount.equals("0")) {
                 line.append("  ## House full ##\n\n");
             } else {
